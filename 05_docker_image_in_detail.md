@@ -1,0 +1,1 @@
+- Image được cấu thành từ nhiều tầng layers đặt trồng lên nhau, bên trong nó là operating system và các file và các dependencies để chạy app

@@ -1,0 +1,1 @@
+- Swarm mode là cái để quản lý các container
